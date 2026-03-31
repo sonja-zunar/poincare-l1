@@ -1,2 +1,4 @@
 # poincare-l1
-Addendum to the manuscript "A lower bound on the relative L^1-norm of Poincaré series" by Sonja Žunar Kožić: Wolfram Mathematica code for computing the integers $N_{n,m,l}^{(p)}$ and $N_{m,l}^{(p)}$
+This repository contains two files:
+1. A Wolfram Mathematica notebook titled “NB_Addendum to a lower bound on the relative L1-norm of Poincare series.nb”
+2. A PDF version of the same notebook, exported from the original Mathematica file, titled “PDF_Addendum to a lower bound on the relative L1-norm of Poincare series.pdf”.
